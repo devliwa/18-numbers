@@ -1,4 +1,7 @@
-## Numbers Project
+## 18 Numbers Project
+[Project]()
+<img width="1277" height="636" alt="Screenshot 2025-09-08 at 4 23 29 AM" src="https://github.com/user-attachments/assets/f46603ca-3e74-4bde-bf53-17107cf2d56f" />
+
 
 #### Structure (HTML)
 
